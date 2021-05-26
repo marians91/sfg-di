@@ -1,4 +1,4 @@
-package guru.springframework.config;
+package guru.springframework.pets;
 
 /**
  * Created by jt on 12/28/19.

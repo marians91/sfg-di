@@ -1,7 +1,4 @@
-package guru.springframework.config;
-
-import org.springframework.context.annotation.Profile;
-import org.springframework.stereotype.Service;
+package guru.springframework.pets;
 
 /**
  * Created by jt on 12/28/19.
